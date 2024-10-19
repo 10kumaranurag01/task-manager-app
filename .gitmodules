@@ -1,0 +1,3 @@
+[submodule "app"]
+    path = app
+    url = https://github.com/10kumaranurag01/task-mamager-app-frontend
