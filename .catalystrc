@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "9863000000007082",
+      "name": "TaskManagerApp",
+      "domain": {
+        "id": "50022759068",
+        "name": "taskmanagerapp-60033616674.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60033616674",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}

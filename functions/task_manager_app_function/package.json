@@ -1,0 +1,12 @@
+{
+	"name": "task_manager_app_function",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "kumarkas1515@gmail.com",
+	"dependencies": {
+		"cors": "^2.8.5",
+		"express": "^4.21.1",
+		"zcatalyst-sdk-node": "latest",
+		"zod": "^3.23.8"
+	}
+}

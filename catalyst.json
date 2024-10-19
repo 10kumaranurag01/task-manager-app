@@ -1,0 +1,11 @@
+{
+  "functions": {
+    "targets": ["task_manager_app_function"],
+    "ignore": [],
+    "source": "functions"
+  },
+  "client": {
+    "source": "app",
+    "plugin": "zcatalyst-cli-plugin-react"
+  }
+}
